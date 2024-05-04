@@ -4,6 +4,7 @@
 *.class
 .idea
 *.iml
+.vscode
 
 # Log file
 *.log
